@@ -76,11 +76,11 @@
     },
     {
       "week": 10,
-      "title": "SSH、tmux 与科研环境",
+      "title": "补缺、复现检查与选题验证",
       "start": "2026-11-23",
       "end": "2026-11-29",
       "path": "weeks/W10.md",
-      "output": "docs/SERVER.md"
+      "output": "projects/04-paper-reproduction/reproduce.md"
     },
     {
       "week": 11,
@@ -92,7 +92,7 @@
     },
     {
       "week": 12,
-      "title": "CLIP、DINO 与可供性",
+      "title": "CLIP 与可供性小实验",
       "start": "2026-12-07",
       "end": "2026-12-13",
       "path": "weeks/W12.md",
@@ -100,11 +100,17 @@
     },
     {
       "week": 13,
-      "title": "论文小复现与报告",
+      "title": "小实验对照与报告",
       "start": "2026-12-14",
       "end": "2026-12-20",
       "path": "weeks/W13.md",
       "output": "projects/04-paper-reproduction/"
     }
-  ]
+  ],
+  "weekly_budget_minutes": {
+    "learning": 600,
+    "assessment": 120,
+    "buffer": 120
+  },
+  "budget_note": "每天约两小时是可用时间上限；周一至周五学习，周六缓冲或休息，周日验收。缓冲不预排新任务，不算欠账。"
 }

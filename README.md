@@ -1,6 +1,8 @@
 # RHOS Learning · 从基础代码到小型复现
 
-一个以代码和实验为中心的 13 周学习工作区。每天知道做什么，每周知道自己真正会了什么。
+一个以代码和实验为中心的 13 周学习工作区。每周 10 小时学习、2 小时验收、2 小时缓冲或休息；先做核心，再考虑选做。
+
+进入关键阶段前使用 [数学与独立验收](docs/READINESS.md)，W09–W10 提前验证最终选题。
 
 **从这里开始：[使用指南](docs/START_HERE.md) → [W01 任务](weeks/W01.md)**
 
@@ -10,7 +12,7 @@
 | 看完成率、验收和学习时长 | [进度面板](DASHBOARD.md) |
 | 每天记录学习与卡点 | [每日打卡](logs/README.md) |
 | 做周末能力复盘 | [复盘索引](reviews/README.md) |
-| 管理四个作品项目 | [项目索引](projects/README.md) |
+| 管理练习项目与最终报告 | [项目索引](projects/README.md) |
 | 记录与比较实验 | [实验模板](templates/experiment.md) |
 | 追踪 CS231n 全部题目 | [作业清单](practice/cs231n/README.md) |
 | 查学习资料 | [资料入口](docs/RESOURCES.md) |
@@ -33,7 +35,7 @@ python scripts/study.py dashboard
 - `weeks/`：13 周必做清单、每日安排、验收、选做。
 - `logs/`：按需生成每日日志，记录实际分钟数。
 - `reviews/`：13 周复盘，记录“能做”和“只看懂”的差距。
-- `projects/`：四个项目的 TODO、实验记录、结果与展示入口。
+- `projects/`：基础练习、最终小实验与报告；后两个目录可共用代码和数据，不要求四个独立项目。
 - `practice/`：Python、小练习与 CS231n 作业工作区。
 - `notes/`：概念笔记、排错与待解决问题。
 - `templates/`：每日记录、实验、概念与论文阅读模板。

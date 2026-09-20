@@ -8,6 +8,6 @@
 - [2026 A2](https://cs231n.github.io/assignments2026/assignment2/)：BatchNorm、Dropout、CNN、PyTorch、RNN Captioning。
 - [2026 A3](https://cs231n.github.io/assignments2026/assignment3/)：Transformer Captioning、SSL、DDPM、CLIP/DINO。
 - [PyTorch 官方文档](https://pytorch.org/docs/stable/index.html)。
-- [RHOS 官网](https://mvig-rhos.com/) 与 [OCL 候选项目](https://mvig-rhos.com/ocl)：W13 开始时再核实代码、权重和数据可用性，再确定复现范围。
+- [RHOS 官网](https://mvig-rhos.com/) 与 [OCL 候选项目](https://mvig-rhos.com/ocl)：W09 筛选候选，W10 核实代码、权重、数据和硬件可用性并跑最小样例；不可运行则缩小范围或采用 CLIP 方法小实验。
 
-13 周每天两小时不保证做完全部题目。核心跑通之后，把未完成题目保留在作业清单，不把“部分完成”写成“完整完成”。
+13 周每周预排 12 小时学习与验收，另留 2 小时缓冲或休息，不保证做完全部题目。核心跑通之后，把未完成题目保留在作业清单，不把“部分完成”写成“完整完成”。

@@ -3,7 +3,7 @@
 - [ ] 写清问题、输入输出和最小完成范围。
 - [ ] 建立固定数据划分，记录数据来源。
 - [ ] 跑通一个 baseline，记录环境和命令。
-- [ ] 完成：先完成 CLIP zero-shot；再选做 CLIP/DINO linear probe。
+- [ ] 完成 CLIP zero-shot baseline；CLIP/DINO linear probe 为选做，不影响本项目核心完成。
 - [ ] 只改一个变量，填写实验记录。
 - [ ] 整理图表、失败案例、局限。
 - [ ] 在新终端按 README 成功重跑。

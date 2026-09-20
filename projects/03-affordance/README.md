@@ -1,10 +1,12 @@
-# CLIP/DINO Object Affordance
+# CLIP Object Affordance（DINO 选做）
 
 状态：尚未开始 · [TODO](TODO.md) · [实验记录](experiments/README.md) · [结果](results/README.md)
 
 目标：多模态表征与语义可供性小实验。
 
-最低交付：先完成 CLIP zero-shot；再选做 CLIP/DINO linear probe。
+最低交付：CLIP zero-shot baseline、固定划分、多标签评估和错误分析；CLIP/DINO linear probe 选做。
+
+W13 可直接基于此项目做一次单变量对照，在 [最终报告目录](../04-paper-reproduction/README.md) 汇总，不必重写代码或另建数据集。若采用 W10 验证过的论文评估路线，本项目只保留最小 CLIP 示例，主要预算交给选定路线。
 
 ## 运行说明（实现后填写）
 
