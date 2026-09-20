@@ -1,0 +1,15 @@
+# 每周复盘
+
+- [W01 · Python 与 NumPy](W01.md)
+- [W02 · Linux、Conda 与 Git](W02.md)
+- [W03 · 图像分类与 kNN](W03.md)
+- [W04 · Softmax 与梯度下降](W04.md)
+- [W05 · NumPy 神经网络与反向传播](W05.md)
+- [W06 · PyTorch 基础](W06.md)
+- [W07 · CNN 与 CIFAR-10](W07.md)
+- [W08 · 归一化、正则化与实验](W08.md)
+- [W09 · ResNet 与迁移学习](W09.md)
+- [W10 · SSH、tmux 与科研环境](W10.md)
+- [W11 · Attention 与 Transformer](W11.md)
+- [W12 · CLIP、DINO 与可供性](W12.md)
+- [W13 · 论文小复现与报告](W13.md)

@@ -1,0 +1,25 @@
+name: "实验计划"
+description: "先写假设，再改变一个变量"
+title: "[Experiment] "
+body:
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: "假设与变量"
+      placeholder: "baseline、唯一改变的变量"
+    validations:
+      required: true
+  - type: textarea
+    id: controls
+    attributes:
+      label: "固定条件和评价方法"
+      placeholder: "划分、种子、训练预算、评价指标"
+    validations:
+      required: true
+  - type: textarea
+    id: results
+    attributes:
+      label: "实验记录与结论"
+      placeholder: "链接 experiments/EXP-XXX.md，运行后填写真实结果"
+    validations:
+      required: false

@@ -1,0 +1,110 @@
+{
+  "start_date": "2026-09-21",
+  "daily_minutes": 120,
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Python 与 NumPy",
+      "start": "2026-09-21",
+      "end": "2026-09-27",
+      "path": "weeks/W01.md",
+      "output": "practice/week01_numpy/"
+    },
+    {
+      "week": 2,
+      "title": "Linux、Conda 与 Git",
+      "start": "2026-09-28",
+      "end": "2026-10-04",
+      "path": "weeks/W02.md",
+      "output": "docs/SETUP.md"
+    },
+    {
+      "week": 3,
+      "title": "图像分类与 kNN",
+      "start": "2026-10-05",
+      "end": "2026-10-11",
+      "path": "weeks/W03.md",
+      "output": "practice/cs231n/a1/"
+    },
+    {
+      "week": 4,
+      "title": "Softmax 与梯度下降",
+      "start": "2026-10-12",
+      "end": "2026-10-18",
+      "path": "weeks/W04.md",
+      "output": "practice/cs231n/a1/"
+    },
+    {
+      "week": 5,
+      "title": "NumPy 神经网络与反向传播",
+      "start": "2026-10-19",
+      "end": "2026-10-25",
+      "path": "weeks/W05.md",
+      "output": "projects/01-numpy-nn/"
+    },
+    {
+      "week": 6,
+      "title": "PyTorch 基础",
+      "start": "2026-10-26",
+      "end": "2026-11-01",
+      "path": "weeks/W06.md",
+      "output": "practice/week06_pytorch/"
+    },
+    {
+      "week": 7,
+      "title": "CNN 与 CIFAR-10",
+      "start": "2026-11-02",
+      "end": "2026-11-08",
+      "path": "weeks/W07.md",
+      "output": "projects/02-cifar10-cnn/"
+    },
+    {
+      "week": 8,
+      "title": "归一化、正则化与实验",
+      "start": "2026-11-09",
+      "end": "2026-11-15",
+      "path": "weeks/W08.md",
+      "output": "projects/02-cifar10-cnn/"
+    },
+    {
+      "week": 9,
+      "title": "ResNet 与迁移学习",
+      "start": "2026-11-16",
+      "end": "2026-11-22",
+      "path": "weeks/W09.md",
+      "output": "practice/week09_transfer/"
+    },
+    {
+      "week": 10,
+      "title": "SSH、tmux 与科研环境",
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "path": "weeks/W10.md",
+      "output": "docs/SERVER.md"
+    },
+    {
+      "week": 11,
+      "title": "Attention 与 Transformer",
+      "start": "2026-11-30",
+      "end": "2026-12-06",
+      "path": "weeks/W11.md",
+      "output": "practice/cs231n/a3/"
+    },
+    {
+      "week": 12,
+      "title": "CLIP、DINO 与可供性",
+      "start": "2026-12-07",
+      "end": "2026-12-13",
+      "path": "weeks/W12.md",
+      "output": "projects/03-affordance/"
+    },
+    {
+      "week": 13,
+      "title": "论文小复现与报告",
+      "start": "2026-12-14",
+      "end": "2026-12-20",
+      "path": "weeks/W13.md",
+      "output": "projects/04-paper-reproduction/"
+    }
+  ]
+}

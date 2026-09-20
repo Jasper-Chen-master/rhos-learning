@@ -1,0 +1,25 @@
+name: "学习任务"
+description: "拆解一个可验收的小任务"
+title: "[Task] "
+body:
+  - type: textarea
+    id: week
+    attributes:
+      label: "对应周次 / 项目"
+      placeholder: "例如 W01 或 projects/01-numpy-nn"
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: "具体目标与完成标准"
+      placeholder: "写成可以演示或验证的行为"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "证据与下一步"
+      placeholder: "文件路径、commit、输出或下一步动作"
+    validations:
+      required: false

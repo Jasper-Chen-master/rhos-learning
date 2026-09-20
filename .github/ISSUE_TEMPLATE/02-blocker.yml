@@ -1,0 +1,25 @@
+name: "学习卡点"
+description: "记录问题、复现和已尝试的方法"
+title: "[Help] "
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: "正在做什么"
+      placeholder: "周次、项目、环境"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "现象与最小复现"
+      placeholder: "错误原文、运行命令；不要粘贴凭据"
+    validations:
+      required: true
+  - type: textarea
+    id: attempts
+    attributes:
+      label: "已尝试与需要帮助的部分"
+      placeholder: "做过什么、发生什么、哪里不理解"
+    validations:
+      required: true

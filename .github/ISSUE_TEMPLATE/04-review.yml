@@ -1,0 +1,25 @@
+name: "每周复盘"
+description: "检验能力并调整下一周"
+title: "[Review] "
+body:
+  - type: textarea
+    id: week
+    attributes:
+      label: "周次和证据"
+      placeholder: "对应 reviews/Wxx.md"
+    validations:
+      required: true
+  - type: textarea
+    id: learned
+    attributes:
+      label: "真正会了什么 / 只是看懂什么"
+      placeholder: "用代码、解释或图表佐证"
+    validations:
+      required: true
+  - type: textarea
+    id: next
+    attributes:
+      label: "下周调整"
+      placeholder: "继续、顺延和最小下一步"
+    validations:
+      required: true
